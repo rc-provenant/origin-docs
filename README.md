@@ -18,11 +18,11 @@ layout:
 
 # Origin Platform Documentation
 
-Origin helps organizations construct and manage their digital identity — and use that identity to improve efficiency and build reputation. Origin is [rooted](broken-reference) in world-class cryptography and cybersecurity. However, it translates that rigor into simple business processes that anyone can understand.
+Origin Cloud™ helps organizations construct and manage their digital identity — and use that identity to improve efficiency and build reputation. Origin™ is [rooted](broken-reference) in world-class cryptography and cybersecurity. However, it translates that rigor into simple business processes that anyone can understand.
 
 Orgs are built by and from people. Origin therefore includes many features that help individuals in team interactions, including delegation, credentials, wallets, agents, and governance frameworks.
 
-Origin is operated commercially by [Provenant](https://provenant.net). However, it is built atop open source technologies, can be extended via that open source, and supports low-friction interactions with participants in the ecosystem who don't use Origin.&#x20;
+Origin is operated commercially by [Provenant](https://provenant.net)™. However, it is built atop open source technologies, can be extended via that open source, and supports low-friction interactions with participants in the ecosystem who don't use Origin.&#x20;
 
 Which features of Origin are most relevant to you depends on your perspective.
 
