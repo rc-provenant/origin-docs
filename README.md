@@ -22,7 +22,7 @@ Origin Cloud™ helps organizations construct and manage their digital identity 
 
 Orgs are built by and from people. Origin therefore includes many features that help individuals in team interactions, including delegation, credentials, wallets, agents, and governance frameworks.
 
-Origin is operated commercially by [Provenant](https://provenant.net)™. However, it is built atop open source technologies, can be extended via that open source, and supports low-friction interactions with participants in the ecosystem who don't use Origin.&#x20;
+Origin is operated commercially by [Provenant](https://provenant.net)™ and its partners. However, it is built atop open source technologies, can be extended via that open source, and supports low-friction interactions with participants in the ecosystem who don't use Origin.&#x20;
 
 Which features of Origin are most relevant to you depends on your perspective.
 

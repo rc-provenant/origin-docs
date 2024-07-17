@@ -1,8 +1,8 @@
-# Origin for Clients
+# Origin for clients
 
 A client is an org that uses Origin to create, manage, and derive business value from a formal digital identity. Some of the things that clients do with Origin include:
 
-* Receive [digital credentials](../../glossary.md#digital-credential) from service providers who provide vetting.
+* Receive [digital credentials](../../glossary.md#digital-credential) from service providers who provide vetting and support. For example, you might use Origin to [get a vLEI](all-about-vleis/).
 * Design and issue credentials that match its unique use cases.
 * Formally delegate and revoke authority to people and other orgs affiliated with the client.
 * Assign, coordinate, and audit the activities of delegates.

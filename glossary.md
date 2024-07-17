@@ -20,7 +20,7 @@ A formally defined role in the [vLEI Governance Framework](https://www.gleif.org
 
 ### digital credential
 
-A small, digitally signed file that provides evidence that the holder is entitled to a privilege. X509 certificates and SSH keys are familiar examples. Origin focuses on a new generation of credentialing technology that has gained momentum over the past decade. ACDCs (of which [vLEIs](glossary.md#vlei) are an example), W3C verifiable credentials, and AnonCreds are examples. Like older solutions, the new technology depends on cryptographic keys. Unlike older solutions, it binds the credential to the holder via a decentralized identifier. This eliminates numerous problems with centralization, and allows the holder to rotate keys without invalidating the credential. &#x20;
+A small, digitally signed file that provides evidence that the holder is entitled to a privilege. X509 certificates and SSH keys are familiar but old examples. A second generation of digital credentials solves some centralization and maintenance problems and has come of age in the past decade. It is associated with AnonCreds, the ISO mobile driver's license spec, and W3C verifiable credential spec. Origin can help support these technologies. However, the focus of Origin is a third generation of digital credentials called ACDCs. These offer dramatically improvements in security and efficiency. [vLEIs](glossary.md#vlei) are an example of a ACDC-based credential supported by Origin.
 
 ### facilitator
 

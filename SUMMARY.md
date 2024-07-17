@@ -1,10 +1,13 @@
 # Table of contents
 
 * [Origin Platform Documentation](README.md)
-  * [Origin for Clients](origin-platform-documentation/origin-for-clients/README.md)
-    * [Service Provider Directory](origin-platform-documentation/origin-for-clients/service-provider-directory.md)
-  * [Origin for Service Providers](origin-platform-documentation/origin-for-service-providers.md)
-  * [Origin for Developers](origin-platform-documentation/origin-for-developers.md)
+  * [Origin for clients](origin-platform-documentation/origin-for-clients/README.md)
+    * [Service provider directory](origin-platform-documentation/origin-for-clients/service-provider-directory.md)
+    * [All about vLEIs](origin-platform-documentation/origin-for-clients/all-about-vleis/README.md)
+      * [Problems solved by vLEIs](origin-platform-documentation/origin-for-clients/all-about-vleis/problems-solved-by-vleis.md)
+      * [Types of vLEIs](origin-platform-documentation/origin-for-clients/all-about-vleis/types-of-vleis.md)
+  * [Origin for service providers](origin-platform-documentation/origin-for-service-providers.md)
+  * [Origin for developers](origin-platform-documentation/origin-for-developers.md)
 
 ## Concepts
 
