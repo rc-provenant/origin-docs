@@ -6,7 +6,7 @@ A vLEI is a special category of [digital credential](../../../glossary.md#digita
 * [Types of vLEIs](types-of-vleis.md)
 * [The vLEI journey](the-vlei-journey.md)
 * [Using vLEIs](using-vleis.md)
-* What it means to "sign with" a vLEI
+* [What it means to "sign with" a vLEI](what-it-means-to-sign-with-a-vlei.md)
 
 
 
