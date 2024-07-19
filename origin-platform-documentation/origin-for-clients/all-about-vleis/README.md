@@ -1,6 +1,8 @@
 # All about vLEIs
 
-A vLEI is a special category of [digital credential](../../../glossary.md#digital-credential) that's used to create strong identity for organizations and their staff members. See [Problems solved by vLEIs](problems-solved-by-vleis.md) and [Types of vLEIs](types-of-vleis.md) for details.
+A vLEI is a special category of [digital credential](../../../glossary.md#digital-credential) that's used to create strong identity for organizations and their staff members.&#x20;
+
+See [Problems solved by vLEIs](problems-solved-by-vleis.md) and [Types of vLEIs](types-of-vleis.md) for details.
 
 ## The vLEI journey
 
