@@ -7,6 +7,7 @@
       * [Problems solved by vLEIs](origin-platform-documentation/origin-for-clients/all-about-vleis/problems-solved-by-vleis.md)
       * [Types of vLEIs](origin-platform-documentation/origin-for-clients/all-about-vleis/types-of-vleis.md)
       * [Using vLEIs](origin-platform-documentation/origin-for-clients/all-about-vleis/using-vleis.md)
+      * [The vLEI journey](origin-platform-documentation/origin-for-clients/all-about-vleis/the-vlei-journey.md)
   * [Origin for service providers](origin-platform-documentation/origin-for-service-providers.md)
   * [Origin for developers](origin-platform-documentation/origin-for-developers.md)
 
