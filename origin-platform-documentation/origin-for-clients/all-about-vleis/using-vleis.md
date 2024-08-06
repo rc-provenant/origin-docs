@@ -14,7 +14,7 @@ Here are some ways to use vLEI credentials:
   * [generalized cooperative delegation credentials](https://github.com/provenant-dev/public-schema/blob/main/gcd/index.md), authorizing a person or org to act in your behalf under carefully described constraints
   * [award credentials](https://github.com/provenant-dev/public-schema/blob/main/award/index.md), conferring official recognition of various kinds on someone else
 
-There are many other credential types already defined, and you can write and use new definitions, too.
+There are[ many other credential types](https://github.com/provenant-dev/public-schema) already defined, and you can write and use new definitions, too.
 
 Of course, each of these credential types can also be verified.
 
