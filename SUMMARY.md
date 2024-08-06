@@ -14,6 +14,4 @@
 
 ## Concepts
 
-***
-
 * [Glossary](glossary.md)
