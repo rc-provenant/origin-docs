@@ -10,8 +10,8 @@ A client is an org that uses Origin to create, manage, and derive business value
 
 ### Getting Started
 
-Any person affiliated with an org can create a free account on Origin. This gives them a free personal wallet and the ability to hold and issue [certain credentials](https://github.com/provenant-dev/public-schema/blob/main/face-to-face/index.md). It also allows them to invite colleagues to join for free, and to collaborate to build a free profile for their org.
+Any person affiliated with an org can create a free account on Origin. This gives them a free personal wallet and the ability to hold and issue [certain personal credentials](https://github.com/provenant-dev/public-schema/blob/main/face-to-face/index.md). It also allows them to invite colleagues to join for free, and to collaborate to build a free profile for their org.
 
-However, the email verification that's part of onboarding an individual provides little assurance that the individual is _authorized_, or that their org actually _wants to use_ the platform. Therefore, a common next step is to establish a relationship with a [facilitator](../../glossary.md#facilitator). This is a [service provider](../../glossary.md#service-provider) that guides the client through its foundational identity work and provides support on (and perhaps off) Origin.
+However, the email verification that's part of onboarding an individual provides little assurance that the individual is _authorized_, or that their org actually _wants to use_ the platform. Therefore, a common next step is [get a vLEI](all-about-vleis/the-vlei-journey.md). Typically, this begins by establishing a relationship with a [facilitator](../../glossary.md#facilitator). This is a [service provider](../../glossary.md#service-provider) that guides the client through its foundational identity work and provides support on (and perhaps off) Origin.
 
 To find a facilitator for your org, run a web search or consult the [Service Provider Directory](service-provider-directory.md).
