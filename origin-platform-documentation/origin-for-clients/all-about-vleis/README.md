@@ -18,7 +18,7 @@ A vLEI is a special category of [digital credential](../../../glossary.md#digita
 \
 For an overview of what it's like to get (or issue) an LE vLEI, this video may be helpful.
 
-<figure><a href="https://drive.google.com/file/d/1JmVBPT6sQSTJFntKcTPxnAxgbtc2iyFW/view?usp=drive_link" target="video"><img src="../../../.gitbook/assets/LE vLEI video thumbnail.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LE vLEI video thumbnail.png" alt=""><figcaption></figcaption></figure>
 
 Check out this subtopics for more information.
 
