@@ -5,7 +5,7 @@ layout:
     visible: false
     size: full
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Origin Platform Documentation
+# Platform Documentation
 
 Origin Cloud™ helps organizations construct and manage their digital identity — and use that identity to improve efficiency and build reputation. Origin™ is rooted in world-class cryptography and cybersecurity. However, it translates that rigor into simple business processes that anyone can understand.
 
@@ -26,6 +26,6 @@ Origin is operated commercially by [Provenant](https://provenant.net)™ and its
 
 Which features of Origin are most relevant to you depends on your perspective.
 
-* If you belong to an org that needs to consume Origin features, see [Clients](readme/clients.md).
-* If you belong to an org that uses Origin to deliver value-added identity features to others, see [Service Providers](readme/sps/).
-* If you're a developer who wants to create services on Origin, see [Developers](readme/developers.md).
+* If you belong to an org that needs to consume Origin features, see [Clients](x/clients.md).
+* If you belong to an org that uses Origin to deliver value-added identity features to others, see [Service Providers](x/sps/).
+* If you're a developer who wants to create services on Origin, see [Developers](x/developers.md).

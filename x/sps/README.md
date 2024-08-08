@@ -1,7 +1,4 @@
 ---
-description: >-
-  for organizations that offer services or products to manage and use digital
-  identity
 layout:
   title:
     visible: true

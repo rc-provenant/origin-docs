@@ -1,8 +1,4 @@
----
-description: Discover who can help you derive business value from Origin.
----
-
-# Service provider directory
+# Service Provider Directory
 
 
 

@@ -1,7 +1,3 @@
----
-description: for organizations that want to manage their digital identity
----
-
 # Origin for Clients
 
 A client is an org that uses Origin to create, manage, and derive business value from a formal digital identity. Some of the things that clients do with Origin include:
