@@ -5,11 +5,11 @@ layout:
     visible: false
     size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -26,6 +26,6 @@ Origin is operated commercially by [Provenant](https://provenant.net)™ and its
 
 Which features of Origin are most relevant to you depends on your perspective.
 
-* If you belong to an org that needs to consume Origin features, see [Origin for Clients](origin-platform-documentation/origin-for-clients/).
-* If you belong to an org that uses Origin to deliver value-added identity features to others, see [Origin for Service Providers](origin-platform-documentation/origin-for-service-providers.md).
-* If you're a developer who wants to create services on Origin, see [Origin for Developers](origin-platform-documentation/origin-for-developers.md).
+* If you belong to an org that needs to consume Origin features, see [Clients](readme/clients.md).
+* If you belong to an org that uses Origin to deliver value-added identity features to others, see [Service Providers](readme/sps/).
+* If you're a developer who wants to create services on Origin, see [Developers](readme/developers.md).

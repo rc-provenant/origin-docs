@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Origin Platform Documentation](README.md)
-  * [Clients](origin-platform-documentation/origin-for-clients/README.md)
-    * [Service provider directory](origin-platform-documentation/origin-for-clients/service-provider-directory.md)
-  * [Service providers](origin-platform-documentation/origin-for-service-providers.md)
-  * [Developers](origin-platform-documentation/origin-for-developers.md)
+  * [Origin for Clients](readme/clients.md)
+  * [Origin for Service Providers](readme/sps/README.md)
+    * [Service Provider Directory](readme/sps/dir.md)
+  * [Origin for Developers](readme/developers.md)
 
 ## Concepts
 
