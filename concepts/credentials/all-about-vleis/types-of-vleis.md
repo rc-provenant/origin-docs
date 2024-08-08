@@ -1,4 +1,8 @@
-# Types of vLEIs
+---
+description: four different vLEIs for four different purposes
+---
+
+# Types
 
 ## LE vLEI
 
@@ -6,7 +10,7 @@ The prototypical example of a vLEI is one issued to a legal entity (e.g., a comp
 
 ## OOR vLEI
 
-Another type of vLEI is issued to people whose roles at an organization include rights or responsibilities that are defined in the legal code where the legal entity is incorporated. For example, in many jurisdictions, a CEO and CFO — and not different corporate roles like Head of Accounting — must sign quarterly reports to government financial regulators. In fulfilling this duty, the CEO and the CFO accept legally mandated accountability for their individual and corporate actions.&#x20;
+Another type of vLEI is issued to people whose roles at an organization include rights or responsibilities that are defined in the legal code where the legal entity is incorporated. For example, in many jurisdictions, a CEO and CFO — and not different corporate roles like Head of Accounting — must sign quarterly reports to government financial regulators. In fulfilling this duty, the CEO and the CFO accept legally mandated accountability for their individual and corporate actions.
 
 This is the _Official Organizational Role vLEI_ or _OOR vLEI_ for short. OOR vLEIs are issued to specific individuals who have undergone strong identity assurance, meeting or exceeding the requirements of [NIST IAL2](https://pages.nist.gov/800-63-3-Implementation-Resources/63A/ial2remote/), and whose roles with a company are declared in a way that is legally provable to the public. The roles in a given organization that might need an OOR vLEI are largely defined in the ISO 5009 standard, and are [published on GLEIF's website](https://www.gleif.org/en/about-lei/code-lists/iso-5009-official-organizational-roles-code-list). Some roles that are associated with OOR vLEIs in many jurisdictions include CEO, CFO, Board Chair, Chief Counsel, and Shareholder.
 

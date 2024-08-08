@@ -1,4 +1,8 @@
-# Problems solved by vLEIs
+---
+description: why vLEIs were invented, and what problems they solve
+---
+
+# Need
 
 The lock icons in our browser address bar supposedly prove who we're talking to online:
 

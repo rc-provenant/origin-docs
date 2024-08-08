@@ -1,4 +1,8 @@
-# Using vLEIs
+---
+description: ways you can use vLEIs, once you have them
+---
+
+# Uses
 
 Here are some ways to use vLEI credentials:
 

@@ -1,10 +1,14 @@
-# The vLEI journey
+---
+description: the process of getting and using vLEIs in an organization
+---
+
+# Journey
 
 When an organization wants to get and begin using vLEIs, it must provide formal answers to certain questions that are intended to guarantee internal alignment and very strong security. Understanding and responding to these questions is the essence of the journey that organizations take as they become vLEI-capable.
 
 1. Who will the org work with to get its vLEIs?
 
-This question is answered by choosing a [QVI](types-of-vleis.md#qvi-vleis) that has the software and expertise to help. Choosing a QVI wisely can make the rest of the process much easier. Different QVIs charge different fees for their services. It is possible to switch QVIs partway through the journey, but it is not convenient. You can find a listing of QVIs in Origin's [Service provider directory](../service-provider-directory.md) or by contacting [qvi@gleif.org](mailto:qvi@gleif.org).&#x20;
+This question is answered by choosing a [QVI](types-of-vleis.md#qvi-vleis) that has the software and expertise to help. Choosing a QVI wisely can make the rest of the process much easier. Different QVIs charge different fees for their services. It is possible to switch QVIs partway through the journey, but it is not convenient. You can find a listing of QVIs in Origin's [Service provider directory](../../../origin-platform-documentation/origin-for-clients/service-provider-directory.md) or by contacting [qvi@gleif.org](mailto:qvi@gleif.org).
 
 2. Who is empowered to make vLEI-related decisions and incur vLEI-related, contractual accountability on behalf of the org?
 

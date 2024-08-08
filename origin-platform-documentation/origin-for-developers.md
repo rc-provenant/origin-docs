@@ -1,6 +1,6 @@
 ---
-description: API/SDK docs
+description: for coders who want to build on top of Origin
 ---
 
-# Origin for Developers
+# Developers
 

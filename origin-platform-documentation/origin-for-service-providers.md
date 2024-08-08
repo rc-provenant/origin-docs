@@ -1,8 +1,14 @@
-# Origin for Service Providers
+---
+description: >-
+  for organizations that offer services or products to manage and use digital
+  identity
+---
+
+# Service providers
 
 An org that uses Origin to sell services to [clients](../glossary.md#client) is a service provider.&#x20;
 
-Some services that a service provider might offer include the vetting of orgs and their people, issuance of [vLEIs](../glossary.md#vlei) or other vetting credentials, high-speed signing and verification of telecom traffic, verified attendees at web meetings, credential-based regulatory compliance, document signing, training, support, and much more.
+Some services that a service provider might offer include the vetting of orgs and their people, issuance of [vLEIs](../glossary.md#vlei) or other credentials, high-speed signing and verification of telecom traffic, verified attendees at web meetings, credential-based regulatory compliance, document signing, training, support, and much more.
 
 Service providers can charge whatever prices they like for their services, and they can brand the services that they provide on the platform. When they do, the service provider's brand is prominent, and Origin's brand becomes a minor piece of background context. This allows service providers to build a business atop the platform, using common and interoperable features of the platform.   &#x20;
 
