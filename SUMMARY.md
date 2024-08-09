@@ -9,15 +9,18 @@
   * [Service Provider Directory](perspectives/sps/dir.md)
 * [Origin for Developers](perspectives/developers.md)
 
+## Tasks
+
+* [How to sign with a vLEI](tasks/what-it-means-to-sign-with-a-vlei.md)
+
 ## Concepts
 
 * [Credentials](concepts/credentials/README.md)
   * [Issuance](concepts/credentials/issuance.md)
-  * [Formats](concepts/credentials/formats.md)
-  * [vLEIs](concepts/credentials/all-about-vleis/README.md)
-    * [Need](concepts/credentials/all-about-vleis/problems-solved-by-vleis.md)
-    * [Types](concepts/credentials/all-about-vleis/types-of-vleis.md)
-    * [Journey](concepts/credentials/all-about-vleis/the-vlei-journey.md)
-    * [Uses](concepts/credentials/all-about-vleis/using-vleis.md)
-    * [Signing](concepts/credentials/all-about-vleis/what-it-means-to-sign-with-a-vlei.md)
+  * [Digital credential formats](concepts/credentials/formats.md)
+  * [vLEIs](concepts/credentials/vleis/README.md)
+    * [Why We Need vLEIs](concepts/credentials/vleis/need.md)
+    * [Types of vLEIs](concepts/credentials/vleis/types-of-vleis.md)
+    * [The vLEI Journey](concepts/credentials/vleis/the-vlei-journey.md)
+    * [Uses](concepts/credentials/vleis/using-vleis.md)
 * [Glossary](glossary.md)
