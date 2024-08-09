@@ -1,10 +1,13 @@
 # Table of contents
 
 * [Platform Documentation](README.md)
-  * [Origin for Clients](x/clients.md)
-  * [Origin for Service Providers](x/sps/README.md)
-    * [Service Provider Directory](x/sps/dir.md)
-  * [Origin for Developers](x/developers.md)
+
+## Perspectives
+
+* [Origin for Clients](perspectives/clients.md)
+* [Origin for Service Providers](perspectives/sps/README.md)
+  * [Service Provider Directory](perspectives/sps/dir.md)
+* [Origin for Developers](perspectives/developers.md)
 
 ## Concepts
 

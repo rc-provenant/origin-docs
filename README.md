@@ -26,6 +26,6 @@ Origin is operated commercially by [Provenant](https://provenant.net)™ and its
 
 Which features of Origin are most relevant to you depends on your perspective.
 
-* If you belong to an org that needs to consume Origin features, see [Clients](x/clients.md).
-* If you belong to an org that uses Origin to deliver value-added identity features to others, see [Service Providers](x/sps/).
-* If you're a developer who wants to create services on Origin, see [Developers](x/developers.md).
+* If you belong to an org that needs to consume Origin features, see [Clients](perspectives/clients.md).
+* If you belong to an org that uses Origin to deliver value-added identity features to others, see [Service Providers](perspectives/sps/).
+* If you're a developer who wants to create services on Origin, see [Developers](perspectives/developers.md).

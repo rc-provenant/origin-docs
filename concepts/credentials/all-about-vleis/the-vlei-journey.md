@@ -8,7 +8,7 @@ When an organization wants to get and begin using vLEIs, it must provide formal 
 
 1. Who will the org work with to get its vLEIs?
 
-This question is answered by choosing a [QVI](types-of-vleis.md#qvi-vleis) that has the software and expertise to help. Choosing a QVI wisely can make the rest of the process much easier. Different QVIs charge different fees for their services. It is possible to switch QVIs partway through the journey, but it is not convenient. You can find a listing of QVIs in Origin's [Service provider directory](../../../x/sps/dir.md) or by contacting [qvi@gleif.org](mailto:qvi@gleif.org).
+This question is answered by choosing a [QVI](types-of-vleis.md#qvi-vleis) that has the software and expertise to help. Choosing a QVI wisely can make the rest of the process much easier. Different QVIs charge different fees for their services. It is possible to switch QVIs partway through the journey, but it is not convenient. You can find a listing of QVIs in Origin's [Service provider directory](../../../perspectives/sps/dir.md) or by contacting [qvi@gleif.org](mailto:qvi@gleif.org).
 
 2. Who is empowered to make vLEI-related decisions and incur vLEI-related, contractual accountability on behalf of the org?
 
