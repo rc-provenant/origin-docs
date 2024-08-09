@@ -1,8 +1,18 @@
 ---
-description: four different vLEIs for four different purposes
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Types
+# Types of vLEIs
 
 ## LE vLEI
 

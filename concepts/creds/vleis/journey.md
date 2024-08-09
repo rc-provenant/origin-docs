@@ -1,14 +1,10 @@
----
-description: the process of getting and using vLEIs in an organization
----
-
-# Journey
+# The vLEI Journey
 
 When an organization wants to get and begin using vLEIs, it must provide formal answers to certain questions that are intended to guarantee internal alignment and very strong security. Understanding and responding to these questions is the essence of the journey that organizations take as they become vLEI-capable.
 
 1. Who will the org work with to get its vLEIs?
 
-This question is answered by choosing a [QVI](types-of-vleis.md#qvi-vleis) that has the software and expertise to help. Choosing a QVI wisely can make the rest of the process much easier. Different QVIs charge different fees for their services. It is possible to switch QVIs partway through the journey, but it is not convenient. You can find a listing of QVIs in Origin's [Service provider directory](../../../perspectives/sps/dir.md) or by contacting [qvi@gleif.org](mailto:qvi@gleif.org).
+This question is answered by choosing a [QVI](types.md#qvi-vleis) that has the software and expertise to help. Choosing a QVI wisely can make the rest of the process much easier. Different QVIs charge different fees for their services. It is possible to switch QVIs partway through the journey, but it is not convenient. You can find a listing of QVIs in Origin's [Service provider directory](../../../perspectives/sps/dir.md) or by contacting [qvi@gleif.org](mailto:qvi@gleif.org).
 
 2. Who is empowered to make vLEI-related decisions and incur vLEI-related, contractual accountability on behalf of the org?
 
@@ -24,11 +20,11 @@ Once LARs are ready, the QVI and the LARs attend a ceremony. At this ceremony, t
 
 4. Who will receive OOR vLEIs?
 
-See [this discussion](types-of-vleis.md#oor-vlei) about which corporate officers might need this type of credential. Anyone at an org can propose someone to receive an OOR, but LARs must approve. They do this by acting as a committee to issue to the QVI an auth credential documenting their organization's intent. Also, evidence of the person's role must satisfy GLEIF requirements. The QVI does the issuance.
+See [this discussion](types.md#oor-vlei) about which corporate officers might need this type of credential. Anyone at an org can propose someone to receive an OOR, but LARs must approve. They do this by acting as a committee to issue to the QVI an auth credential documenting their organization's intent. Also, evidence of the person's role must satisfy GLEIF requirements. The QVI does the issuance.
 
 5. Who will receive ECR vLEIs, and who will issue them?
 
-Anybody who is affiliated with a company but who does not have a role matching the OOR profile is eligible to receive an ECR. See [this discussion](types-of-vleis.md#ecr-vlei) for details. Either the QVI or the org itself can be the issuer. QVIs can help orgs learn the process.
+Anybody who is affiliated with a company but who does not have a role matching the OOR profile is eligible to receive an ECR. See [this discussion](types.md#ecr-vlei) for details. Either the QVI or the org itself can be the issuer. QVIs can help orgs learn the process.
 
 6. What maintenance is needed?
 

@@ -11,16 +11,17 @@
 
 ## Tasks
 
-* [How to sign with a vLEI](tasks/what-it-means-to-sign-with-a-vlei.md)
+* [Sign with a vLEI](tasks/sign-with-vlei.md)
 
 ## Concepts
 
-* [Credentials](concepts/credentials/README.md)
-  * [Issuance](concepts/credentials/issuance.md)
-  * [Digital credential formats](concepts/credentials/formats.md)
-  * [vLEIs](concepts/credentials/vleis/README.md)
-    * [Why We Need vLEIs](concepts/credentials/vleis/need.md)
-    * [Types of vLEIs](concepts/credentials/vleis/types-of-vleis.md)
-    * [The vLEI Journey](concepts/credentials/vleis/the-vlei-journey.md)
-    * [Uses](concepts/credentials/vleis/using-vleis.md)
+* [Credentials and Verifiable Data](concepts/creds/README.md)
+  * [Formats](concepts/creds/formats.md)
+  * [Issuing](concepts/creds/issuing.md)
+  * [Verifying](concepts/creds/verifying.md)
+  * [vLEIs](concepts/creds/vleis/README.md)
+    * [Why We Need vLEIs](concepts/creds/vleis/why.md)
+    * [Types of vLEIs](concepts/creds/vleis/types.md)
+    * [The vLEI Journey](concepts/creds/vleis/journey.md)
+    * [Ways to Use vLEIs](concepts/creds/vleis/uses.md)
 * [Glossary](glossary.md)

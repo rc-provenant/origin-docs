@@ -1,8 +1,18 @@
 ---
-description: why vLEIs were invented, and what problems they solve
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Need
+# Why We Need vLEIs
 
 The lock icons in our browser address bar supposedly prove who we're talking to online:
 
